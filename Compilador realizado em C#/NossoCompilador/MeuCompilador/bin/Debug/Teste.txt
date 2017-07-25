@@ -1,0 +1,9 @@
+# Este programa exibe na linha 10 coluna 20 do monitor o numero 18 #
+
+limpatela ();
+posicionacursor (20 , 10);
+escrevedigito (3);
+escrevedigito (5);
+fim ();
+
+# Fim de Programa #
