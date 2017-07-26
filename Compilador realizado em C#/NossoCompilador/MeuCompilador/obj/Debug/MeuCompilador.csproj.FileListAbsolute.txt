@@ -206,3 +206,6 @@ C:\Users\RAFA\Documents\cursoemvideo\Bim02Semana05\NossoCompilador\MeuCompilador
 C:\Users\RAFA\Documents\cursoemvideo\Bim02Semana05\NossoCompilador\MeuCompilador\obj\Debug\MeuCompilador.MeuCompiladorIHM.resources
 C:\Users\RAFA\Documents\cursoemvideo\Bim02Semana05\NossoCompilador\MeuCompilador\obj\Debug\MeuCompilador.Properties.Resources.resources
 C:\Users\RAFA\Documents\cursoemvideo\Bim02Semana05\NossoCompilador\MeuCompilador\obj\Debug\MeuCompilador.csproj.GenerateResource.Cache
+C:\Users\RAFA\Documents\projetos-cursos-faculdade\Compilador realizado em C#\NossoCompilador\MeuCompilador\bin\Debug\MeuCompilador.exe.config
+C:\Users\RAFA\Documents\projetos-cursos-faculdade\Compilador realizado em C#\NossoCompilador\MeuCompilador\obj\Debug\MeuCompilador.exe
+C:\Users\RAFA\Documents\projetos-cursos-faculdade\Compilador realizado em C#\NossoCompilador\MeuCompilador\obj\Debug\MeuCompilador.pdb
