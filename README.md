@@ -21,7 +21,8 @@ Entrar na pasta do projeto e clicar na opção MeuCompilador.sln
 Assim que o Visual Studio abrir com o projeto, clicar no botão iniciar
 ```
 ```
-Quando aparecer a escolha do diretório, clicar na pasta do próprio programa (Compilador realizado em C#). Navegar entre a pasta Nosso Compilador, Meu Compilador (novamente), bin, Debug e escolher o arquivo Teste.txt.  
+Quando aparecer a escolha do diretório, clicar na pasta do próprio programa (Compilador realizado em C#). 
+Navegar entre a pasta Nosso Compilador, Meu Compilador (novamente), bin, Debug e escolher o arquivo Teste.txt.  
 ```
 
 ```
