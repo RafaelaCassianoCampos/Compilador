@@ -3,14 +3,14 @@
 
 Compilador básico em C# realizado para demonstrar simplificadamente como os compiladores de linguagens de programação funcionam. 
 
-### Prerequisites
+### Pré-Requisitos
 
 Necessário instalar:
 ```
 Visual Studio >= 2012 
 ```
 
-### Installing
+### Instalação
 
 Assim que o Visual Studio for instalado, os seguintes passos devem ser adotados:
 
